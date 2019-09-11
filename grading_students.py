@@ -1,3 +1,4 @@
+# problem translation to simple algorithm
 # grades [0 : 100]
 # if grade - next multiple of 5 < 3 -> grade = next multiple of 5
 # if grade < 38 -> grade = grade
