@@ -5,13 +5,6 @@
 # d = fruit distance when falls
 
 
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the countApplesAndOranges function below.
 def count_apples_and_oranges(s, t, a, b, apples, oranges):
     apples_count = 0;
     oranges_count = 0;
